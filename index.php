@@ -6,6 +6,6 @@
     }else{
         echo "bem vindo, convidado <br>";
         echo "Essas informacoes <font color='red'>NAO PODEM</font> ser acessadas por voce";
-        echo "<br><a href='login.html'>faca login</a> para ler o conteudo";
+        echo "<br><a href='cadastro.html'>faca login</a> para ler o conteudo";
     }
 ?>
