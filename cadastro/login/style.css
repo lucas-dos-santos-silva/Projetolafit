@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+.sec-1{
+    
+    text-align: center;
+    background-color: #2AB9DE;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #8BFAE8;
+    border-width: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.sec-2{
+    text-align: center;
+    background-color: #2AB9DE;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #8BFAE8;
+    border-width: 10px;
+    margin: auto;
+}
+.log{
+    border-radius: 4px;
+    background-color: #3B8BF5;
+    width: auto;
+}
+.form{
+    color: #2A37DE;
+}
