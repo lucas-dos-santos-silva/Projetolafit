@@ -1,2 +1,3 @@
 # Projetolafit
- Esté é meu primeiro projeto para uma empresa de comida fitness, ele vai consistir em retirar pedidos e formatar da maneira que quem for preparar consiga de maneira pratica realizar o entendimento
+*Projeto para aplicacao de conceitos sobre banco de dados e conexao com o banco usando php*
+[Ver os arquivos](https://github.com/lucas-dos-santos-silva/Projetolafit/tree/main/cadastro/login)
